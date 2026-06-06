@@ -23,7 +23,7 @@ export const portfolioConfig = {
   social: {
     github: "https://github.com/johnwick34",
     linkedin: "https://www.linkedin.com/in/razaul-bari-939243402?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
-    twitter: "https://twitter.com/#",
+    twitter: "#",
   },
 
   // --- Skills ---
